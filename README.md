@@ -5,7 +5,7 @@
 
 ---
 
-![Watch the demo](https://drive.google.com/file/d/1blDqtLb7-l9l6MJJf_QnqEMitnCaidtt/view?usp=sharing)
+📽️ [Watch the demo](https://drive.google.com/file/d/1blDqtLb7-l9l6MJJf_QnqEMitnCaidtt/view?usp=sharing)
 
 ## 🚀 Features
 
